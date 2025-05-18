@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\admin\Documents\Zalo Received Files\tai lieu hoc tap\baitap\vstim\vstim\main.cpp(62,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  vstim.vcxproj -> C:\Users\admin\Documents\Zalo Received Files\tai lieu hoc tap\baitap\vstim\x64\Debug\vstim.exe
